@@ -14,6 +14,8 @@ namespace ConsoleApp1
                Console.WriteLine("Hello, Class1!");
         }
 
+
+        public string master;
         
     }
 }
