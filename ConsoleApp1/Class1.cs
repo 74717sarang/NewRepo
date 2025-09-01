@@ -17,6 +17,5 @@ namespace ConsoleApp1
 
         public string master;
         public string branch1;
-        public string newChangebranch1;
     }
 }
